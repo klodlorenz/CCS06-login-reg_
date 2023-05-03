@@ -1,0 +1,17 @@
+{
+    "name": "itsromack/ccs06-login-reg",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Klod Lorenz C. Bondoc",
+            "email": "bondoc.klodlorenz@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
